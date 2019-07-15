@@ -1513,6 +1513,7 @@ a[class*="icon-google"] {
         padding: 3em 2em
     }
     .section_img {
-        max-width: 300px
+        width: auto;
     }
+    
 }
