@@ -618,7 +618,8 @@ header .container {
 }
 
 .section_img {
-    width: 100%;
+    width: auto;
+    margin: 1.5em;
     max-width: 230px;
     -webkit-transition: .3s ease-in-out;
     transition: .3s ease-in-out;
@@ -719,7 +720,7 @@ header .container {
 #portfolio {
     text-align: center;
     width: 100%;
-    padding: 1em 0 2em;
+    padding: 1em 0 6em;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -1181,7 +1182,7 @@ a[href^="tel:"]:before {
     -ms-flex-align: center;
     align-items: center;
     width: 100%;
-    padding: 1em 0.5em 5em
+    padding: 1em 0.5em 6em
 }
 
 .precios_item {
